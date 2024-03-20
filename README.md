@@ -3,4 +3,5 @@
 # 公众号
 
 > 关注公众号,里面有配套的文章
-> ![](./imgs/getqrcode.jpeg)
+
+![](./imgs/getqrcode.jpeg)

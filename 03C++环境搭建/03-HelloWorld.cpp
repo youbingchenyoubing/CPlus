@@ -22,7 +22,6 @@ int main(){
  int a=10;
  
  cout<<"Hello  World!"<<endl;   //输出"Hello World!" 
- cout<<"end"<<endl;
  /*
  主函数main( )的返回语句，一般是函数的最后一条可执行语句。
  main()函数末尾使用return语句时，数值0表示程序顺利结束，
